@@ -82,7 +82,7 @@ This class will be participatory, you are expected to participate in discussions
     
 **Intro to HTML/CSS**
 *   HTML vs. CSS vs. Javascript
-*   HTML tree structure, semantic tags
+*   HTML tree structure, [semantic tags](http://www.w3schools.com/html/html5_semantic_elements.asp)
 *   CSS classes vs. IDs
 *   CSS inline style vs. stylesheets
 
@@ -104,7 +104,7 @@ This class will be participatory, you are expected to participate in discussions
 **Set up Github** (If you are comfortable with Git already, you can skip this), but [email me](emailto:calli@nyu.edu) your github username.)
 *   Sign up for GitHub
 *   Install [GitHub Desktop](https://desktop.github.com/) or learn the [command line](https://education.github.com/git-cheat-sheet-education.pdf)
-*   [Email me](emailto:calli@nyu.edu) your github username
+*   [Email me](mailto:calli@nyu.edu) your github username
 *   You'll be invited to our class's [Github Organization](https://github.com/orgs/DWDMobile)
 
 **Assignment Workflow** 
@@ -126,11 +126,11 @@ This class will be participatory, you are expected to participate in discussions
 **Assignment:**
 
 * Do Wireframes for your chosen project
-* Fork this week's [homework repo](https://github.com/DWDMobile/Week1) and clone it
+* Fork this week's [homework repo](https://github.com/DWDMobile/Week1) and clone it via command line or Github Desktop
 * Update the code by starting to write the basic html and css for your project 
 * After comitting and pushing your code to your forked branch, create a pull request on the [original repo](https://github.com/DWDMobile/Week1)
 * Click 'Compare Across Forks' and select your forked branch as the 'head fork'
-* Post your wireframes to your blog and add a link to that post to your pull request
+* Post your wireframes to your blog and add a link to that post to your pull request, create pull request
 
 ### Week 2
 
