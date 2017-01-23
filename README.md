@@ -104,7 +104,7 @@ This class will be participatory, you are expected to participate in discussions
 
 **Set up Github** (If you are comfortable with Git already, you can skip this), but [email me](emailto:calli@nyu.edu) your github username.)
 *   Sign up for GitHub
-*   Install [GitHub Desktop](https://desktop.github.com/) or learn the [command line](https://education.github.com/git-cheat-sheet-education.pdf)
+*   Install [GitHub Desktop](https://desktop.github.com/) or learn the [command line](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 *   [Email me](mailto:calli@nyu.edu) your github username
 *   You'll be invited to our class's [Github Organization](https://github.com/orgs/DWDMobile)
 
