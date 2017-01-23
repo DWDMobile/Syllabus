@@ -83,8 +83,9 @@ This class will be participatory, you are expected to participate in discussions
 **Intro to HTML/CSS**
 *   HTML vs. CSS vs. Javascript
 *   HTML tree structure, [semantic tags](http://www.w3schools.com/html/html5_semantic_elements.asp)
-*   CSS classes vs. IDs
-*   CSS inline style vs. stylesheets
+*   [CSS inline style vs. stylesheets](http://htmldog.com/guides/css/beginner/applyingcss/)
+*   [CSS classes vs. IDs](http://htmldog.com/guides/css/intermediate/classid/)
+*   [CSS positioning](http://htmldog.com/guides/css/intermediate/layout/)
 
 **Homework**:
 
