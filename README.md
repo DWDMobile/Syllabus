@@ -126,10 +126,10 @@ This class will be participatory, you are expected to participate in discussions
 **Assignment:**
 
 * Do Wireframes for your chosen project
-* Join our [github classroom](https://classroom.github.com/assignment-invitations/2b51a0ce117c03f93dbc7b8242d97a3d)
-* Fork this week's homework repo and clone it
+* Fork this week's [homework repo](https://github.com/DWDMobile/Week1) and clone it
 * Update the code by starting to write the basic html and css for your project 
-* After comitting and pushing your code to your forked branch, create a pull request 
+* After comitting and pushing your code to your forked branch, create a pull request on the [original repo](https://github.com/DWDMobile/Week1)
+* Click 'Compare Across Forks' and select your forked branch as the 'head fork'
 * Post your wireframes to your blog and add a link to that post to your pull request
 
 ### Week 2
