@@ -144,7 +144,10 @@ This class will be participatory, you are expected to participate in discussions
 *   [Bootstrap Templating](http:/getbootstrap.com)
 *   [SASS] (http://sass-lang.com)
     *   In terminal- sass --watch style.scss:style.css
-*   [Week 2 Examples](http://itp.nyu.edu/~ceh274/dwdmobile/week2/)
+*   Week 2 Examples
+    *  [Intro to Sass](https://github.com/DWDMobile/Week-2-SASS)
+    *  [Intro to Bootstrap](https://github.com/DWDMobile/Week-2-Bootstrap)
+    *  [Intro to Javascript](https://github.com/DWDMobile/Week-2-Intro-To-Js)
 
 **Homework**:
 
@@ -153,6 +156,8 @@ This class will be participatory, you are expected to participate in discussions
 
 **Assignment:**
 Fully build out the HTML for the structure of your app. Make your CSS Mobile Friendly with CSS Media Queries. Test your site on a mobile simulator.
+
+Submit your homework by forking, cloning, and submitting a Pull Request to the [Week 2 Homework repo](https://github.com/DWDMobile/Week-2-Homework)
 
 **Optional/Additional JavaScript Resources:**
 
