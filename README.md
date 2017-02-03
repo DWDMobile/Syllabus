@@ -140,14 +140,12 @@ This class will be participatory, you are expected to participate in discussions
 *   [The Viewport Tag](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
 *   [CSS Media Queries Tutorial](http://mobile.smashingmagazine.com/2010/07/19/how-to-use-css3-media-queries-to-create-a-mobile-version-of-your-website/)
 *   [Media Queries Cheat Sheet](http://stephen.io/mediaqueries/)
-*   [The DOM](http://css-tricks.com/dom/)
 *   [Bootstrap Templating](http:/getbootstrap.com)
 *   [SASS] (http://sass-lang.com)
     *   In terminal- sass --watch style.scss:style.css
 *   Week 2 Examples
     *  [Intro to Sass](https://github.com/DWDMobile/Week-2-SASS)
     *  [Intro to Bootstrap](https://github.com/DWDMobile/Week-2-Bootstrap)
-    *  [Intro to Javascript](https://github.com/DWDMobile/Week-2-Intro-To-Js)
 
 **Homework**:
 
@@ -159,10 +157,45 @@ Fully build out the HTML for the structure of your app. Make your CSS Mobile Fri
 
 Submit your homework by forking, cloning, and submitting a Pull Request to the [Week 2 Homework repo](https://github.com/DWDMobile/Week-2-Homework)
 
-**Optional/Additional JavaScript Resources:**
+**Optional Resources:**
 
 *   **Creating a Responsive Web Experience**
     [http://www.lynda.com/CSS-tutorials/Creating-Responsive-Web-Experience/135375-2.html](http://www.lynda.com/CSS-tutorials/Creating-Responsive-Web-Experience/135375-2.html) (Sections 1 - 4)
+
+### Week 3
+
+**JavaScript and jQuery Mobile**
+
+*   [Native App vs. Mobile Site](http://boagworld.com/mobile-web/mobile-app-vs-mobile-website-design/)
+*   [The DOM](http://css-tricks.com/dom/)
+*   [Intro to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+*   Javascript animations
+    *   [p5](http://p5js.org/)
+    *   [Paper.js](http://paperjs.org/)
+*   [jQuery](http://www.jquery.com)
+*   [jQuery Events](http://www.w3schools.com/jquery/jquery_events.asp)
+*   [jQuery Animation](http://www.w3schools.com/jquery/jquery_animate.asp)
+*   [jQuery UI Touch](http://touchpunch.furf.com/)
+*   [jQuery Mobile](http://jquerymobile.com/)
+*   Week 3 Examples
+    *[Intro to Javascript](https://github.com/DWDMobile/Week-3-Intro-To-Js)
+    
+**Homework**:
+
+*   **Javascript for Web Designers**
+    [http://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers/144203-2.html](http://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers/144203-2.html) (Sections 1 - 4)
+*   **jQuery Essential Training**
+    [http://www.lynda.com/jQuery-tutorials/essential-training/48370-2.html](http://www.lynda.com/jQuery-tutorials/essential-training/48370-2.html
+*   **jQuery Mobile Web Applications**
+    [http://www.lynda.com/jQuery-Mobile-tutorials/jQuery-Mobile-Web-Applications/156619-2.html](http://www.lynda.com/jQuery-Mobile-tutorials/jQuery-Mobile-Web-Applications/156619-2.html) (Sections 1 - 3)
+
+**Assignment:**
+
+Introduce navigation, clickable elements, interactivity into your project using Javascript and/or jQuery. Complete the "pages" of your app and make sure you can navigate between them.
+
+Submit your homework by forking, cloning, and submitting a Pull Request to the [Week 3 Homework repo](https://github.com/DWDMobile/Week-3-Homework)
+
+**Additional JavaScript and jQuery Reources**
 *   **Go through the entire Introducing the JavaScript Language from Lynda.com**
     [http://www.lynda.com/JavaScript-tutorials/Introducing-JavaScript-Language/123563-2.html](http://www.lynda.com/JavaScript-tutorials/Introducing-JavaScript-Language/123563-2.html) (Sections 1-2,4)
 *   **Eloquent JavaScript**
@@ -173,36 +206,6 @@ Submit your homework by forking, cloning, and submitting a Pull Request to the [
     [http://www.lynda.com/JavaScript-tutorials/Essential-Training/81266-2.html](http://www.lynda.com/JavaScript-tutorials/Essential-Training/81266-2.html)
 *   **The JavaScript Garden (Advanced)**
     [http://bonsaiden.github.io/JavaScript-Garden/](http://bonsaiden.github.io/JavaScript-Garden/)
-
-### Week 3
-
-**JavaScript and jQuery Mobile**
-
-*   [Native App vs. Mobile Site](http://boagworld.com/mobile-web/mobile-app-vs-mobile-website-design/)
-*   Javascript animations
-    *   [p5](http://p5js.org/)
-    *   [Paper.js](http://paperjs.org/)
-*   [jQuery](http://www.jquery.com)
-*   [jQuery Events](http://www.w3schools.com/jquery/jquery_events.asp)
-*   [jQuery Animation](http://www.w3schools.com/jquery/jquery_animate.asp)
-*   [jQuery UI Touch](http://touchpunch.furf.com/)
-*   [jQuery Mobile](http://jquerymobile.com/)
-*   [Week 3 Example](https://github.com/callihiggins/DWDMobile/tree/master/Week%203)
-
-**Homework**:
-
-*   **Javascript for Web Designers**
-    [http://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers/144203-2.html](http://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers/144203-2.html) (Sections 1 - 4)
-*   **jQuery Essential Training**
-    [http://www.lynda.com/jQuery-tutorials/essential-training/48370-2.html](http://www.lynda.com/jQuery-tutorials/essential-training/48370-2.html
-    				)
-*   **jQuery Mobile Web Applications**
-    [http://www.lynda.com/jQuery-Mobile-tutorials/jQuery-Mobile-Web-Applications/156619-2.html](http://www.lynda.com/jQuery-Mobile-tutorials/jQuery-Mobile-Web-Applications/156619-2.html) (Sections 1 - 3)
-
-**Assignment:**
-Introduce navigation, clickable elements, interactivity into your project using Javascript, jQueryMobile, and/or jQuery UI Touch. Navigate through several "pages" of the app.
-
-Download and install [Node.JS](http://nodejs.org/)
 
 ### Week 4
 
