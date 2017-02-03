@@ -178,7 +178,7 @@ Submit your homework by forking, cloning, and submitting a Pull Request to the [
 *   [jQuery UI Touch](http://touchpunch.furf.com/)
 *   [jQuery Mobile](http://jquerymobile.com/)
 *   Week 3 Examples
-    *[Intro to Javascript](https://github.com/DWDMobile/Week-3-Intro-To-Js)
+    *  [Intro to Javascript](https://github.com/DWDMobile/Week-3-Intro-To-Js)
     
 **Homework**:
 
