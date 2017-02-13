@@ -212,21 +212,24 @@ Submit your homework by forking, cloning, and submitting a Pull Request to the [
 
 **PhoneGap**
 
+*   [Quick Get Started Guide](http://phonegap.com/getstarted/)
 *   [Hello World Example](https://github.com/callihiggins/DWDMobile/tree/master/Week%204/Phonegap%20example/Hello%20Phonegap%20World/www)
 *   [Hello World Example Explained](http://docs.phonegap.com/develop/hello-world-explained/)
 *   [Get to know the core plugins](http://cordova.apache.org/docs/en/latest/guide/support/index.html#core-plugin-apis)
-*   [Capture Image Example](https://github.com/callihiggins/Phonegap101)
+*   [Capture Image Example](https://github.com/DWDMobile/Week-4-Image-Capture-Example)
 *   [Debugging Phonegap apps](http://docs.phonegap.com/references/developer-app/debugging)
 *   [Go further with Phonegap](http://docs.phonegap.com/getting-started/5-going-further)
-*   [Using the CLI -- not neccessary for everyone](http://cordova.apache.org/docs/en/dev/index.html)
-*   [Notes on getting started with the CLI](http://itp.nyu.edu/~ceh274/dwdmobile/week4)
+*   [Using the CLI -- not neccessary for everyone](http://cordova.apache.org/docs/en/latest/index.html)
 *   [Get to know the thid party plugins - will require CLI](http://cordova.apache.org/plugins/)
 *   [Store info in localstroage](http://www.joshmorony.com/a-summary-of-local-storage-options-for-phonegap-applications/)
+*   [Comprehensive tutorial for Single Page Phonegap App](http://coenraets.org/blog/phonegap-tutorial/)
+*   [WebVR and Phonegap](http://phonegap.com/blog/2016/11/17/webvr-and-phonegap/)
+*   [Distribute Apps using Phonegap Build](https://build.phonegap.com/) ([(Docs)](http://docs.phonegap.com/phonegap-build/)
 
 
 **Assignment:**
 
-Move your application into Phonegap and run on either an iOS or Android device. Adjust your application’s UI to give it the look and feel of a native app.
+Fork and clone the [Week 4 Homework](https://github.com/DWDMobile/Week-4-Homework). This is an empty Phonegap example with jQuery and core Phonegap plugins included. Edit the index.html, index.js, and index.css files to include the work you've done so far in this class. You do not need to have this finished by next class, however create a pull reqiest with your work in progress so I can see where you are at. 
 
 
 ### Week 5
